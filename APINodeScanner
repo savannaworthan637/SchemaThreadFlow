@@ -1,0 +1,23 @@
+
+---
+
+### **2. 33_APINodeScanner**  
+**Description:**  
+Scans API nodes across environments and logs health metrics in real time.
+
+#### **README.md**
+```markdown
+# APINodeScanner - Distributed API Health Tracker
+
+APINodeScanner helps monitor multi-node deployments by checking latency and HTTP status of each target.
+
+## Features
+- Multi-node tracking  
+- Export to JSON or CSV  
+- Latency heatmap support  
+
+## Usage
+```bash
+git clone https://github.com/your-username/33_APINodeScanner.git
+cd 33_APINodeScanner
+python monitor.py
